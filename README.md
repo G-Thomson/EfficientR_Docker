@@ -1,5 +1,5 @@
 # EfficientR_Docker
-Unofficial Docker image for Efficient R programming by Colin Gillespie and  Robin Lovelace
+Unofficial Docker image for *Efficient R programming* by Colin Gillespie and  Robin Lovelace
 
 **Book:** https://csgillespie.github.io/efficientR/
 
