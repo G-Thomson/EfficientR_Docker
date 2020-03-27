@@ -7,6 +7,6 @@ Unofficial Docker image for *Efficient R programming* by Colin Gillespie and  Ro
 
 **Book Github repository:** https://github.com/csgillespie/efficientR
 
-**Associated R package:** https://github.com/csgillespie/efficient/blob/master/DESCRIPTION
+**Associated R package:** https://github.com/csgillespie/efficient
 
 
